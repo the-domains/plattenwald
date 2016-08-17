@@ -1,0 +1,28 @@
+name: Plattenwald
+favicon: null
+layout_spectrum: 0.27276029740460217
+typography_spectrum: 0.7415208064485341
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6105645231436938
+  lightness: 0.4191788148600608
+  saturation: 0.8786948735360056
+  rhythmicContrast: 0.9433775739744306
+purpose: []
